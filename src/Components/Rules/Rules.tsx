@@ -71,7 +71,7 @@ const Rules: React.FC = (): JSX.Element => {
               />
             </div>
             <img
-              src="../../images/image-rules.svg"
+              src="../../images/image-rules-bonus.svg"
               alt=""
               className="rules__img"
             />
